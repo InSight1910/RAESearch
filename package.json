@@ -2,18 +2,15 @@
 	"name": "RAESearch",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "src/rae.js",
 	"scripts": {
-		"start": "node rae.js"
+		"start": "node src/rae.js"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"discord.js": "^12.5.1",
-		"node-fetch": "^2.6.1",
-		"rae": "^1.0.3",
-		"rae-api": "^1.2.2",
 		"rae.js": "^1.7.0"
 	},
 	"devDependencies": {
